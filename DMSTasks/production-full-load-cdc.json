@@ -1,0 +1,54 @@
+{
+    "rules": [
+        {
+            "object-locator": {
+                "schema-name": "Production",
+                "table-name": "Product"
+            },
+            "rule-type": "selection",
+            "rule-action": "include",
+            "rule-name": "1",
+            "rule-id": "1"
+        },
+        {
+            "object-locator": {
+                "schema-name": "Production",
+                "table-name": "UnitMeasure"
+            },
+            "rule-type": "selection",
+            "rule-action": "include",
+            "rule-name": "2",
+            "rule-id": "2"
+        },
+        {
+            "object-locator": {
+                "schema-name": "Production",
+                "table-name": "ProductSubcategory"
+            },
+            "rule-type": "selection",
+            "rule-action": "include",
+            "rule-name": "3",
+            "rule-id": "3"
+        },
+        {
+            "object-locator": {
+                "schema-name": "Production",
+                "table-name": "ProductCategory"
+            },
+            "rule-type": "selection",
+            "rule-action": "include",
+            "rule-name": "4",
+            "rule-id": "4"
+        },
+        {
+            "object-locator": {
+                "schema-name": "Production",
+                "table-name": "ProductModel"
+            },
+            "rule-type": "selection",
+            "rule-action": "include",
+            "rule-name": "5",
+            "rule-id": "5"
+        }
+    ]
+}
