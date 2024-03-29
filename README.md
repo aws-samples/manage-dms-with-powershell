@@ -1,11 +1,6 @@
-## My Project
+## Manage AWS DMS with PowerShell
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Resources used for the AWS DB Blog on Manage AWS DMS with PowerShell
 
 ## Security
 
